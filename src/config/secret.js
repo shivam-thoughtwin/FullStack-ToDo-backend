@@ -1,4 +1,4 @@
 module.exports = {
-  url: "mongodb://localhost:27017/todo-backend",
+  url: "mongodb+srv://todotodo:todotodo@cluster0.6nq7wvy.mongodb.net/thoughtwintodo?retryWrites=true&w=majority",
   secret: "poiuytrewqlkjhgfdsamnbvcxz",
 };
